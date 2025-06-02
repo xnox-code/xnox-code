@@ -29,7 +29,7 @@ Me enfoco en escribir código limpio, escalable y con las mejores prácticas del
 - **Casos de éxito**:  
   - [RH Easy](enlace): App con +80% de código compartido entre móvil y Windows.  
   - Única tecnología para varias plataformas.
-  - 
+    
 ---
 
 ## 📂 **Proyectos Destacados**  
