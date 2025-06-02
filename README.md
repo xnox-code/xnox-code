@@ -28,16 +28,8 @@ Me enfoco en escribir código limpio, escalable y con las mejores prácticas del
 - **Arquitectura**: Módulos Multiplatform con `commonMain`, `androidMain`, y `desktopMain`.  
 - **Casos de éxito**:  
   - [RH Easy](enlace): App con +80% de código compartido entre móvil y Windows.  
-  - Única tecnología para varias plataformas.  
-
-### 🖥️ **Windows con Kotlin/Compose**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Compose Desktop](https://img.shields.io/badge/Compose_Desktop-4285F4?style=flat)
-
-- Desarrollo de aplicaciones **nativas para Windows** usando:  
-  - **Compose Multiplatform** para UI declarativa.  
-  - **Kotlin/Native** (`windowsX64`) para lógica específica.  
-- Manejo de **interoperabilidad** con APIs de Windows (ej: sistema de archivos, registry).  
+  - Única tecnología para varias plataformas.
+  - 
 ---
 
 ## 📂 **Proyectos Destacados**  
