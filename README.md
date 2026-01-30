@@ -38,8 +38,8 @@ Me enfoco en escribir código limpio, escalable y con las mejores prácticas del
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xnoxdev@gmail.com)  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" />  
+  <img src="https://komarev.com/ghpvc/?username=xnox-code&label=Profile%20views&color=0e75b6&style=flat" alt="xnox-code "/>  
 </p>
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" />  
+  <img src="https://komarev.com/ghpvc/?username=xnox-code&label=Profile%20views&color=0e75b6&style=flat" alt="xnox-code" />  
 </p>
